@@ -1,0 +1,7 @@
+这里下载依赖
+
+第一步 express -e .
+第二步 npm install
+
+
+views放服务器代码

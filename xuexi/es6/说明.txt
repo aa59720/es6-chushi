@@ -1,0 +1,4 @@
+要创建一个 package.josn,安装依赖需要
+用npm init
+
+还需要编译包.babelrc  gulpfile.babel.js名字固定
